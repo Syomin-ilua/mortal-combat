@@ -1,0 +1,24 @@
+input {
+    display: block;
+    margin: auto;
+    width: 100%;
+    color: black;
+    padding: 11px 26px;
+	border-radius: 6px;
+	border: 1px solid black;
+	font-size: 16px;
+    line-height: 140%;
+}
+.button-modal {
+    display: block;
+    margin: 15px auto;
+    width: 100%;
+    color: white;
+    background-color: #EA6E20;
+    cursor: pointer;
+    padding: 11px 26px;
+	border-radius: 6px;
+	border: none;
+	font-size: 16px;
+    line-height: 140%;
+}
