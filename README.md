@@ -1,8 +1,9 @@
-# Mortal-Combat - учебный проект Glo Academy
+# Mortal-Combat - учебный проект (практика JQuery и вёрстки)
 ## Выполнил проект - Сёмин Илья
-### Технологии:
-- HTML
-- CSS
-- Normalize
-- JQuery
-- Fancybox (JQuery)
+
+  В проекте используются технологии:
+  - HTML
+  - CSS
+  - Normalize
+  - JQuery
+  - Fancybox (JQuery)
